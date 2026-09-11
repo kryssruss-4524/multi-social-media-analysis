@@ -7,7 +7,7 @@ Kashish Parmar
 #### Source: 
 https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
 #### Objectives:
-1. What are the overall average engagement levels per platform?
+1. What are the overall engagement levels per platform?
 2. What are the average engagement levels over time (year/month/day/hour) per platform?
 3. What is the top-performing post per platform?
 4. What is the relationship between post likes and retweets per platform?
